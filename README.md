@@ -23,8 +23,8 @@
 ## 🙋‍♂️ Connect with me:
 
 <p align="left">
-<a href="https://mich.ir"><img src="https://skillicons.dev/icons?i=gcp"></a>
-<a href="https://discord.com/users/696558088995602453"><img alt="Ko-fi" title="By me a coffee" src="https://skillicons.dev/icons?i=discord"/></a>
+<a href="https://m1ch.ir"><img src="https://skillicons.dev/icons?i=gcp"></a>
+<a href="https://discord.com/users/696558088995602453"><img alt="discord" title="discord" src="https://skillicons.dev/icons?i=discord"/></a>
 <a href="https://www.instagram.com/m1chtv"><img alt="instagram" title="Follow" src="https://skillicons.dev/icons?i=instagram"/></a>
 </p>
 
