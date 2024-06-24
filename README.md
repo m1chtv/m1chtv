@@ -11,7 +11,7 @@
 ## 🔥 My contribution streak
 
 <p align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=m1chtv#version3&theme=tokyonight"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=m1chtv&&theme=tokyonight#version3"/>
   </a>
 </p>
 
