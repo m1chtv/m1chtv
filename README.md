@@ -11,7 +11,7 @@
 ## 🔥 My contribution streak
 
 <p align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=m1chtv#version3&&theme=tokyonight"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=m1chtv#version3&theme=tokyonight"/>
   </a>
 </p>
 
@@ -118,7 +118,7 @@
 <details> 
   <summary>💻 Most used languages</summary>
   <br/>
-  <img alt="m1chtv's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=m1chtv&langs_count=10&layout=compact#&theme=tokyonight" /></a>
+  <img alt="m1chtv's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=m1chtv&langs_count=10&layout=compact&theme=tokyonight" /></a>
   <br/>
   <b>Note:</b> This chart is only a metric of which languages my public code on GitHub consists of and does not reflect my experience or skill level.
 </details>
