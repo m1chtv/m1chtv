@@ -52,61 +52,6 @@
   <a href="https://github.com/m1chtv?tab=repositories"><img alt="Portfolio" title="Portfolio" src="https://img.shields.io/badge/-More%20Repos-black?style=for-the-badge&logo=addthis&logoColor=white"/></a>
 </p>
 
-## 👨‍💻 Languages and Tools:
-
-<table>
-    <tbody>
-        <tr>
-            <td><a href="#"><img alt="JavaScript" title="JavaScript" height="28px"
-                        src="https://skillicons.dev/icons?i=js" /></a>
-            </td>
-            <td><a href="#"><img alt="HTML5" title="HTML5" height="28px"
-                        src="https://skillicons.dev/icons?i=html" /></a>
-            </td>
-            <td><a href="#"><img alt="CSS3" title="CSS3" height="28px"
-                        src="https://skillicons.dev/icons?i=css" /></a>
-            </td>
-            <td><a href="#"><img alt="Lua" title="Lua" height="28px"
-                        src="https://skillicons.dev/icons?i=lua" /></a>
-            </td>
-            <td><a href="#"><img alt="Svelte" title="Svelte" height="28px"
-                        src="https://skillicons.dev/icons?i=svelte" /></a>
-            </td>
-        </tr>
-        <tr>
-            <td><a href="#"><img alt="NodeJS" title="NodeJS" height="28px"
-                        src="https://skillicons.dev/icons?i=nodejs" /></a>
-            </td>
-            <td><a href="#"><img alt="Express" title="Express" height="28px"
-                        src="https://skillicons.dev/icons?i=express" /></a>
-            </td>
-            <td><a href="#"><img alt="MongoDB" title="MongoDB" height="28px"
-                        src="https://skillicons.dev/icons?i=mongodb" /></a>
-            </td>
-           <td><a href="#"><img alt="ReactJS" title="ReactJS" height="28px"
-                        src="https://skillicons.dev/icons?i=react" /></a>
-            </td>
-           <td><a href="#"><img alt="Swift" title="Swift" height="28px"
-                        src="https://skillicons.dev/icons?i=swift" /></a>
-            </td>
-        </tr>
-        <tr>
-            <td><a href="#"><img alt="Visual Studio" title="Visual Studio Code" height="28px"
-                        src="https://skillicons.dev/icons?i=vscode" /></a></td>
-              <td><a href="#"><img alt="Rust" title="Rust" height="28px"
-                        src="https://skillicons.dev/icons?i=rust" /></a></td>
-            <td><a href="#"><img alt="Ruby" title="Ruby" height="28px"
-                        src="https://skillicons.dev/icons?i=ruby" /></a></td>
-            <td><a href="#"><img alt="PhotoShop" title="PhotoShop" height="28px"
-                        src="https://skillicons.dev/icons?i=ps" /></a></td>
-           <td><a href="#"><img alt="GitHub" title="GitHub" height="28px"
-                        src="https://skillicons.dev/icons?i=github" /></a>            
-            </td>
-        </tr>
-    </tbody>
-
-</table>
-
 ## 📈 Github Stats
 
 <details>
