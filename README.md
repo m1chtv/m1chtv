@@ -18,13 +18,15 @@ I am currently focused on profitable projects that make me rich as quickly as po
 </br>
 </br>
 </br>
+</br>
+</br>
 
 ---
 
 ## 🔥 My contribution streak
 
 <p>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=m1chtv&&theme=tokyonight#version3"/>
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=m1chtv&&theme=tokyonight#version3"/>
   </a>
 </p>
 
