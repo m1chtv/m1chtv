@@ -51,7 +51,7 @@ I am currently focused on profitable projects that make me rich as quickly as po
 
 **tools**
 
-[![My Skills](https://skillicons.dev/icons?i=vscode,powershell,raspberrypi,ae,au,ps,linux)](https://m1ch.ir/)
+[![My Skills](https://skillicons.dev/icons?i=vscode,powershell,raspberrypi,ae,ps,linux)](https://m1ch.ir/)
 
 ---
 
