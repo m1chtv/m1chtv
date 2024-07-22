@@ -1,12 +1,25 @@
-<a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
+### 👋 **const** mich = Hello // console.log(mich, 'World!')
 
-<h3 align="center">Hey there, I'm <a href="https://m1ch.ir">Mikaeel</a> - aka mich </h3>
+<a target="_blank" style="color: white" href="https://www.instagram.com/nicholas_nasc">
+  <img align="left" alt="Instagram" width="20px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/640px-Instagram_icon.png" />
+</a>
+<a target="_blank" style="color: white" href="https://discord.com/users/696558088995602453">
+  <img align="left" alt="Discord" width="22px" src="https://logodownload.org/wp-content/uploads/2017/11/discord-logo-2-1.png" />
+</a>
+<a target="_blank" style="color: white" href="mailto:mikizaras45@gmail.com">
+  <img align="left" alt="Gmail" width="20px" src="https://logodownload.org/wp-content/uploads/2018/03/gmail-logo-16.png" />
+</a>
+</br>
 
-## 📖 About me
+---
+<img align="left" height="220" src="https://m1ch.ir/images/mich.png"/>
 
-- 💻 I'm a Full Stack Developer
-- 🎨 I'm a self-taught Discord Bot Developer
-- 📱 I make website using MERN technology etc
+Hey, good? My name is Mikaeel A.K.A mich, I'm Gamer and I enjoy making programs.
+
+I am currently focused on profitable projects that make me rich as quickly as possible. I'm 20 years old, I make some applications for personal use, from time to time I sell some things there, from time to time I record some videos for the internet, when I have time and my biggest focus now is becoming independent.
+</br>
+
+---
 
 ## 🔥 My contribution streak
 
@@ -17,12 +30,29 @@
 
 <h3 align="center">⬇ Scroll down to see <a href="https://github.com/m1chtv?tab=repositories">my repos</a>! ⭐ Stars are appreciated!</h3>
 
-## 🙋‍♂️ Connect with me:
+## 🛠️ My Technologies
 
-<p align="left">
-<a href="https://m1ch.ir"><img src="https://skillicons.dev/icons?i=gcp"></a>
-<a href="https://discord.com/users/696558088995602453"><img alt="discord" title="discord" src="https://skillicons.dev/icons?i=discord"/></a>
-</p>
+**Front-end**
+
+[![My Skills](https://skillicons.dev/icons?i=svelte,html,css,bootstrap,js,vuejs)](https://m1ch.ir/)
+
+**Back-end**
+
+[![My Skills](https://skillicons.dev/icons?i=php,dart,flutter,sass,nodejs,jquery,react)](https://m1ch.ir/)
+
+**Database**
+
+[![My Skills](https://skillicons.dev/icons?i=mongodb,mysql,firebase)](https://m1ch.ir/)
+
+**Other Technologies**
+
+[![My Skills](https://skillicons.dev/icons?i=docker,figma,git,redis,java,python,wordpress,discordjs,lua,swift,ts)](https://m1ch.ir/)
+
+**tools**
+
+[![My Skills](https://skillicons.dev/icons?i=vscode,powershell,raspberrypi,ae,au,ps,linux)](https://m1ch.ir/)
+
+---
 
 ## 📘 My top open source projects
 
@@ -51,6 +81,8 @@
 <p align="left">
   <a href="https://github.com/m1chtv?tab=repositories"><img alt="Portfolio" title="Portfolio" src="https://img.shields.io/badge/-More%20Repos-black?style=for-the-badge&logo=addthis&logoColor=white"/></a>
 </p>
+
+---
 
 ## 📈 Github Stats
 
