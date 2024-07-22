@@ -76,6 +76,11 @@ I am currently focused on profitable projects that make me rich as quickly as po
       <td><img alt="Stars" src="https://img.shields.io/github/stars/m1chtv/michns?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Forks" src="https://img.shields.io/github/forks/m1chtv/michns?style=flat-square&labelColor=343b41"/></td>
     </tr>
+    <tr>
+      <td><a href="https://github.com/m1chtv/m1chtv/mich-weather-app"><b>michns</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/m1chtv/mich-weather-app?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/m1chtv/mich-weather-app?style=flat-square&labelColor=343b41"/></td>
+    </tr>
   </tbody>
 </table>
 
