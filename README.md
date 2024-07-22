@@ -1,8 +1,5 @@
 ### 👋 **const** mich = Hello // console.log(mich, 'World!')
 
-<a target="_blank" style="color: white" href="https://www.instagram.com/nicholas_nasc">
-  <img align="left" alt="Instagram" width="20px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/640px-Instagram_icon.png" />
-</a>
 <a target="_blank" style="color: white" href="https://discord.com/users/696558088995602453">
   <img align="left" alt="Discord" width="22px" src="https://logodownload.org/wp-content/uploads/2017/11/discord-logo-2-1.png" />
 </a>
@@ -18,12 +15,15 @@ Hey, good? My name is Mikaeel A.K.A mich, I'm Gamer and I enjoy making programs.
 
 I am currently focused on profitable projects that make me rich as quickly as possible. I'm 20 years old, I make some applications for personal use, from time to time I sell some things there, from time to time I record some videos for the internet, when I have time and my biggest focus now is becoming independent.
 </br>
+</br>
+</br>
+</br>
 
 ---
 
 ## 🔥 My contribution streak
 
-<p align="center">
+<p>
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=m1chtv&&theme=tokyonight#version3"/>
   </a>
 </p>
