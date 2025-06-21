@@ -69,7 +69,7 @@ I am currently focused on profitable projects that make me rich as quickly as po
     <tr>
       <td><a href="https://github.com/m1chtv/mich-WiserWork"><b>mich-WiserWork</b></a></td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/m1chtv/mich-WiserWork?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/m1chtvmich-WiserWork?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/m1chtv/mich-WiserWork?style=flat-square&labelColor=343b41"/></td>
     </tr>
     <tr>
       <td><a href="https://github.com/m1chtv/mich-gpt"><b>mich-gpt</b></a></td>
