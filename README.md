@@ -1,4 +1,4 @@
-### 👋 **const** hey = Hello // console.log(hey, 'World!')
+### 👋 **const** hello = Hello // console.log(hello, 'World!')
 
 <a target="_blank" style="color: white" href="https://discord.com/users/696558088995602453">
   <img align="left" alt="Discord" width="22px" src="https://logodownload.org/wp-content/uploads/2017/11/discord-logo-2-1.png" />
