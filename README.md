@@ -33,25 +33,11 @@ I am currently focused on profitable projects that make me rich as quickly as po
 
 ## 🛠️ My Technologies
 
-**Front-end**
-
-[![My Skills](https://skillicons.dev/icons?i=svelte,html,css,bootstrap,js,vuejs)](https://m1ch.ir/)
-
-**Back-end**
-
-[![My Skills](https://skillicons.dev/icons?i=php,dart,flutter,sass,nodejs,jquery,react)](https://m1ch.ir/)
-
-**Database**
-
-[![My Skills](https://skillicons.dev/icons?i=mongodb,mysql,firebase)](https://m1ch.ir/)
-
-**Other Technologies**
-
-[![My Skills](https://skillicons.dev/icons?i=docker,figma,git,redis,java,python,wordpress,discordjs,lua,swift,ts)](https://m1ch.ir/)
-
-**tools**
-
-[![My Skills](https://skillicons.dev/icons?i=vscode,powershell,raspberrypi,ae,ps,linux)](https://m1ch.ir/)
+<p align="center">
+  <a href="https://m1ch.ir">
+    <img src="https://skillicons.dev/icons?i=bash,ubuntu,debian,nginx,windows,wordpress,vscode,visualstudio,ps,npm,js,jquery,nodejs,react,redux,py&perline=5" />
+  </a>
+</p>
 
 ---
 
