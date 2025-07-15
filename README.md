@@ -1,6 +1,6 @@
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hey,+I'm+Mikaeel+%F0%9F%91%8B;aka+mich+%E2%9C%A8;Fullstack+Dev;Let’s+build+some+cool+sh*t!&center=true&size=24&color=9A66FF&vCenter=true&width=1000">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hey,+I'm+Mikaeel+%F0%9F%91%8B;aka+mich+%E2%9C%A8;Fullstack+Dev+%26+Network+Manager;Let’s+build+some+cool+sh*t!&center=true&size=24&color=9A66FF&vCenter=true&width=1000">
 </h1>
 
 <p align="center">
@@ -29,7 +29,7 @@
 const me = {
   name: "Mikaeel Zarasvand",
   alias: "mich",
-  role: "Fullstack Web Dev",
+  role: "Fullstack Web Dev & Network Manager",
   stack: ["MERN", "DiscordJS", "LPIC 1,2", "CCNA"],
   hobbies: ["Game", "YouTube", "Photography"],
   goal: "Get rich through cool software.",
