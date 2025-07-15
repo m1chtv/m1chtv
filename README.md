@@ -51,10 +51,8 @@ const me = {
 | Project | ⭐ Stars | 🍴 Forks |
 |--------|--------|--------|
 | [**DiscordBot Hosting**](https://github.com/m1chtv/mich-DiscordBot-Hosting) | ![Stars](https://img.shields.io/github/stars/m1chtv/mich-DiscordBot-Hosting?style=social) | ![Forks](https://img.shields.io/github/forks/m1chtv/mich-DiscordBot-Hosting?style=social) |
-| [**WiserWork**](https://github.com/m1chtv/mich-WiserWork) | ![Stars](https://img.shields.io/github/stars/m1chtv/mich-WiserWork?style=social) | ![Forks](https://img.shields.io/github/forks/m1chtv/mich-WiserWork?style=social) |
 | [**mich-gpt**](https://github.com/m1chtv/mich-gpt) | ![Stars](https://img.shields.io/github/stars/m1chtv/mich-gpt?style=social) | ![Forks](https://img.shields.io/github/forks/m1chtv/mich-gpt?style=social) |
 | [**michns**](https://github.com/m1chtv/michns) | ![Stars](https://img.shields.io/github/stars/m1chtv/michns?style=social) | ![Forks](https://img.shields.io/github/forks/m1chtv/michns?style=social) |
-| [**Weather App**](https://github.com/m1chtv/mich-weather-app) | ![Stars](https://img.shields.io/github/stars/m1chtv/mich-weather-app?style=social) | ![Forks](https://img.shields.io/github/forks/m1chtv/mich-weather-app?style=social) |
 <p align="left">
   <a href="https://github.com/m1chtv?tab=repositories"><img alt="Portfolio" title="Portfolio" src="https://img.shields.io/badge/-More%20Repos-black?style=for-the-badge&logo=addthis&logoColor=white"/></a>
 </p>
