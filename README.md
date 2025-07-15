@@ -29,9 +29,9 @@
 const me = {
   name: "Mikaeel Zarasvand",
   alias: "mich",
-  role: "Fullstack Web Dev | Indie Hacker",
-  stack: ["MERN", "Node.js", "Mongo", "Docker", "Svelte", "DiscordJS"],
-  hobbies: ["Gaming", "YouTube", "Photography"],
+  role: "Fullstack Web Dev",
+  stack: ["MERN", "DiscordJS", "LPIC 1,2", "CCNA"],
+  hobbies: ["Game", "YouTube", "Photography"],
   goal: "Get rich through cool software.",
 };
 ```
@@ -41,7 +41,7 @@ const me = {
 ## ⚡ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,next,html,css,sass,tailwind,bootstrap,nodejs,express,mongodb,mysql,py,java,php,svelte,docker,nginx,bash,vscode,figma&perline=9" />
+  <img src="https://skillicons.dev/icons?i=bash,ubuntu,debian,windows,nginx,wordpress,vscode,visualstudio,npm,ps,js,jquery,nodejs,react,redux,py,java,php,discordjs,docker,ts,svelte,sass,html,css,bootstrap,express,lua,mongodb,mysql&perline=10" />
 </p>
 
 ---
