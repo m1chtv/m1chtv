@@ -50,6 +50,7 @@ const me = {
 
 | Project | ⭐ Stars | 🍴 Forks |
 |--------|--------|--------|
+| [**DiscordBot Hosting**](https://github.com/m1chtv/mich-DiscordBot-Hosting) | ![Stars](https://img.shields.io/github/stars/m1chtv/mich-DiscordBot-Hosting?style=social) | ![Forks](https://img.shields.io/github/forks/m1chtv/mich-DiscordBot-Hosting?style=social) |
 | [**WiserWork**](https://github.com/m1chtv/mich-WiserWork) | ![Stars](https://img.shields.io/github/stars/m1chtv/mich-WiserWork?style=social) | ![Forks](https://img.shields.io/github/forks/m1chtv/mich-WiserWork?style=social) |
 | [**mich-gpt**](https://github.com/m1chtv/mich-gpt) | ![Stars](https://img.shields.io/github/stars/m1chtv/mich-gpt?style=social) | ![Forks](https://img.shields.io/github/forks/m1chtv/mich-gpt?style=social) |
 | [**michns**](https://github.com/m1chtv/michns) | ![Stars](https://img.shields.io/github/stars/m1chtv/michns?style=social) | ![Forks](https://img.shields.io/github/forks/m1chtv/michns?style=social) |
