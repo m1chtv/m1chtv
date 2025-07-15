@@ -35,7 +35,7 @@ I am currently focused on profitable projects that make me rich as quickly as po
 
 <p align="center">
   <a href="https://m1ch.ir">
-    <img src="https://skillicons.dev/icons?i=bash,ubuntu,debian,nginx,windows,wordpress,vscode,visualstudio,ps,npm,js,jquery,nodejs,react,redux,py&perline=5" />
+    <img src="https://skillicons.dev/icons?i=bash,ubuntu,debian,windowsm,nginx,wordpress,vscode,visualstudio,npm,ps,js,jquery,nodejs,react,redux,py,java,php,discordjs,docker,ts,svelte,sass,html,css,express,lua,mongodb,mysql&perline=5" />
   </a>
 </p>
 
