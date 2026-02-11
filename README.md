@@ -53,6 +53,11 @@ const me = {
 | [**DiscordBot Hosting**](https://github.com/m1chtv/mich-DiscordBot-Hosting) | ![Stars](https://img.shields.io/github/stars/m1chtv/mich-DiscordBot-Hosting?style=social) | ![Forks](https://img.shields.io/github/forks/m1chtv/mich-DiscordBot-Hosting?style=social) |
 | [**mich-gpt**](https://github.com/m1chtv/mich-gpt) | ![Stars](https://img.shields.io/github/stars/m1chtv/mich-gpt?style=social) | ![Forks](https://img.shields.io/github/forks/m1chtv/mich-gpt?style=social) |
 | [**michns**](https://github.com/m1chtv/michns) | ![Stars](https://img.shields.io/github/stars/m1chtv/michns?style=social) | ![Forks](https://img.shields.io/github/forks/m1chtv/michns?style=social) |
+| [**mich-uuid**](https://github.com/m1chtv/mich-uuid) | ![Stars](https://img.shields.io/github/stars/m1chtv/mich-uuid?style=social) | ![Forks](https://img.shields.io/github/forks/m1chtv/mich-uuid?style=social) |
+| [**mich-ports**](https://github.com/m1chtv/mich-ports) | ![Stars](https://img.shields.io/github/stars/m1chtv/mich-ports?style=social) | ![Forks](https://img.shields.io/github/forks/m1chtv/mich-ports?style=social) |
+| [**EsmFamil**](https://github.com/m1chtv/mich-EsmFamil) | ![Stars](https://img.shields.io/github/stars/m1chtv/mich-EsmFamil?style=social) | ![Forks](https://img.shields.io/github/forks/m1chtv/mich-EsmFamil?style=social) |
+| [**mich-tg-hidden-chat**](https://github.com/m1chtv/mich-tg-hidden-chat) | ![Stars](https://img.shields.io/github/stars/m1chtv/mich-tg-hidden-chat?style=social) | ![Forks](https://img.shields.io/github/forks/m1chtv/mich-tg-hidden-chat?style=social) |
+| [**mich-JudgeGame**](https://github.com/m1chtv/mich-JudgeGame) | ![Stars](https://img.shields.io/github/stars/m1chtv/mich-JudgeGame?style=social) | ![Forks](https://img.shields.io/github/forks/m1chtv/mich-JudgeGame?style=social) |
 <p align="left">
   <a href="https://github.com/m1chtv?tab=repositories"><img alt="Portfolio" title="Portfolio" src="https://img.shields.io/badge/-More%20Repos-black?style=for-the-badge&logo=addthis&logoColor=white"/></a>
 </p>
