@@ -30,7 +30,7 @@ const me = {
   name: "Mikaeel Zarasvand",
   alias: "mich",
   role: "MERN Dev & Network Manager",
-  stack: ["MERN", "DiscordJS", "LPIC 1,2", "CCNA"],
+  stack: ["MERN", "LPIC 1,2", "CCNA"],
   hobbies: ["Game", "YouTube", "Photography"],
   goal: "Get rich through cool software.",
 };
